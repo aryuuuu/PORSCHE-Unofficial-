@@ -1,0 +1,16 @@
+.header-title{
+    text-align: center;
+    background-color: transparent;
+    color: white;
+    font-family: 'Porsche Next', bold,sans-serif;
+    font-size: 3rem;
+    letter-spacing: 10px;
+    padding: 10px;
+}
+
+@media (max-width: 768px) {
+    .header-title {
+        font-size: 1.8rem;
+        letter-spacing: 3px;
+    }
+}
